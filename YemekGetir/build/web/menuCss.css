@@ -1,0 +1,38 @@
+.menuTablosu {
+               
+		border:1px inset;
+		border-collapse:collapse;
+		padding:10px;
+	}
+	.siparisTablosu th {
+             color: white;
+		border:1px inset;
+		padding:20px;
+		background:#2E8B57;
+	}
+	.siparisTablosu td {
+             text-align: center; 
+                color:black;
+		border:1px inset;
+                padding-right: 10px;
+                background: #FFFFE0;
+               
+		padding:10;
+	}
+        .tabloText{
+               color: black;
+               letter-spacing: 1px;
+               font-size: small;
+               font-family: sans-serif;
+               text-transform: capitalize;
+        }
+        .button {   
+        background-color: #4CAF50; /* Green */
+         border-radius: 12px;
+         color: white;
+         padding: 10px 15px;
+         text-align: center;
+         display: inline-block;
+         font-size: 12px;
+}
+ 

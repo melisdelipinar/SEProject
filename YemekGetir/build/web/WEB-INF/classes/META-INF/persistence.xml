@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+  <persistence-unit name="YemekGetirPU" transaction-type="RESOURCE_LOCAL">
+    <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
+    <class>YemekGetirRestoran.Shoppingcart</class>
+    <class>YemekGetirRestoran.User</class>
+    <class>YemekGetirRestoran.Menuitemtobuy</class>
+    <class>YemekGetirRestoran.Menuitem</class>
+    <class>YemekGetirRestoran.Address</class>
+    <class>YemekGetirRestoran.Food</class>
+    <class>YemekGetirRestoran.Systemadmin</class>
+    <class>YemekGetirRestoran.Onlinepayment</class>
+    <class>YemekGetirRestoran.City</class>
+    <class>YemekGetirRestoran.Menu</class>
+    <class>YemekGetirRestoran.Payment</class>
+    <class>YemekGetirRestoran.Usercommandratings</class>
+    <class>YemekGetirRestoran.Distinct</class>
+    <class>YemekGetirRestoran.Restaurant</class>
+    <class>YemekGetirRestoran.Order1</class>
+    <exclude-unlisted-classes>false</exclude-unlisted-classes>
+    <properties>
+      <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/yemekgetir?zeroDateTimeBehavior=convertToNull"/>
+      <property name="javax.persistence.jdbc.password" value=""/>
+      <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
+      <property name="javax.persistence.jdbc.user" value="root"/>
+    </properties>
+  </persistence-unit>
+</persistence>
