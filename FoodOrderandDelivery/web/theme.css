@@ -1,0 +1,1244 @@
+p.topLine {
+    
+    border: 1px solid gray;
+    background-color: gray ;
+    padding-top: 25px;
+    padding-right: 30px;
+    padding-bottom: 25px;
+    padding-left: 80px;
+    width: 95.0% ;
+    margin-left: -10px ;
+    margin-top: -10px ;
+    text-align: justify ;
+    
+}
+
+p.midLine {
+    
+    border: 1px solid lightgray ;
+    background-color: lightgray ;
+    margin-top: -16px ;
+    margin-left: -10px ;
+    width: 95.0% ;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    padding-left: 80px;
+    text-align: center ;
+}
+
+p.thirty-four {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    height: 65px ;
+    margin-top: 50px ;
+    margin-left: 70px ;
+    padding-bottom: -15px ;
+    padding-top: -5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align:center ;
+    
+}
+
+p.one {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 170px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.two {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px ;
+    margin-left: 270px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.three {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px ;
+    margin-left: 370px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.four {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px ;
+    margin-left: 470px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.five {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px ;
+    margin-left: 570px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.six {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px ;
+    margin-left: 670px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.seven {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px ;
+    margin-left: 770px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.eight {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px ;
+    margin-left: 870px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.nine {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px ;
+    margin-left: 970px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.ten {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px ;
+    margin-left: 1070px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.eleven {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px ;
+    margin-left: 1170px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.twelve {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px ;
+    margin-left: 1270px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.thirteen {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px ;
+    margin-left: 1370px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.fourteen {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px ;
+    margin-left: 1470px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.fifteen {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 1570px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.sixteen {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 1670px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.seventeen {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 1770px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.eighteen {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: 70px  ;
+    margin-left: 70px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.nineteen {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 170px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.twenty {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 270px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.twenty-one {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 370px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.twenty-two {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 470px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.twenty-three {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 570px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.twenty-four {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 670px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.twenty-five {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 770px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.twenty-six {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 870px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.twenty-seven {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 970px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.twenty-eight {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 1070px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.twenty-nine {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 1170px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.thirty {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 1270px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.thirty-one {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 1370px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.thirty-two {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 1470px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.thirty-three {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 1570px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.thirty-five {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 1670px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.thirty-six {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 1770px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.thirty-seven {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: 70px  ;
+    margin-left: 70px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.thirty-eight {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 170px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.thirty-nine {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 270px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.fourty {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 370px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.fourty-one {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 470px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.fourty-two {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 570px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.fourty-three {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 670px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.fourty-four {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 770px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.fourty-five {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 870px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.fourty-six {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 970px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.fourty-seven {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 1070px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.fourty-eight {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 1170px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.fourty-nine {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 1270px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.fifty {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 1370px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.fifty-one {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 1470px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.fifty-two {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 1570px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.fifty-three {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 1670px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.fifty-four {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 1770px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.fifty-five {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: 70px  ;
+    margin-left: 70px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.fifty-six {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 170px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.fifty-seven {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 270px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.fifty-eight {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 370px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.fifty-nine {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 470px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.sixty {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 570px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.sixty-one {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 670px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.sixty-two {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 770px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.sixty-three {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 870px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.sixty-four {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 970px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.sixty-five {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 1070px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.sixty-six {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 1170px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.sixty-seven {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 1270px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.sixty-eight {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 1370px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.sixty-nine {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 1470px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.seventy {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 1570px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.seventy-one {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 1670px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.seventy-two {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 1770px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.seventy-three {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: 70px  ;
+    margin-left: 70px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.seventy-four {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 170px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.seventy-five {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 270px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.seventy-six {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 370px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.seventy-seven {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 470px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.seventy-eight {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 570px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.seventy-nine {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 670px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.eighty {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 770px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
+
+p.eighty-one {
+    
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    width: 3% ;
+    margin-top: -87px  ;
+    margin-left: 870px ;
+    padding-bottom: 5px ;
+    padding-top: 5px ;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center ;
+    
+}
