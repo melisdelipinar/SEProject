@@ -6,7 +6,8 @@ p.topLine {
     padding-right: 30px;
     padding-bottom: 25px;
     padding-left: 80px;
-    width: 95.0% ;
+    width: 100.0% ;
+    margin: 100.0% ;
     margin-left: -10px ;
     margin-top: -10px ;
     text-align: justify ;
@@ -33,7 +34,7 @@ p.thirty-four {
     border: 3px solid gray;
     width: 3% ;
     height: 65px ;
-    margin-top: 50px ;
+    margin-top: 10px ;
     margin-left: 70px ;
     padding-bottom: -15px ;
     padding-top: -5px ;
@@ -49,7 +50,7 @@ p.one {
     border: 3px solid gray;
     width: 3% ;
     margin-top: -87px  ;
-    margin-left: 170px ;
+    margin-left: 10px ;
     padding-bottom: 5px ;
     padding-top: 5px ;
     padding-left: 5px ;
